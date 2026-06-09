@@ -1,17 +1,5 @@
 # LuminaEdit
 
-This is the official repository for the **ACA Summer Project 2026 | LuminaEdit**.
-
-
----
-
-## Mentors
-
-- **Nishtha Gupta**
-- **Vanshika Agrawal**
-- **Shruti Sahu**
-- **Sneha Jain**
-
 The aim of this project is to build a terminal text editor from scratch using raw Linux system calls and dynamic memory management in C.
 
 ---
@@ -42,10 +30,10 @@ git pull
 
 #### **Assignment Naming Format**:
 - Assignments should be named as:  
-  `firstname_rollno_assignmenttopic.cpp`
+  `firstname_rollno_week_weekno.cpp`
 
 #### **Folder Naming Format**:
 - Each folder should follow the format:  
-  `firstname_rollno_assignment_assignmentnumber`
+  `firstname_rollno_week_weekno`
 
 ---
